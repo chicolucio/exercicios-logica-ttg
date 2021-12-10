@@ -9,11 +9,12 @@ Aqui neste repositório apresento dois arquivos do Jupyter Notebook: um com um
  pequeno resumo teórico de lógica, com exemplos e exercícios propostos; e o outro
  com o gabarito dos exercícios propostos no primeiro arquivo.
 
-Caso a pré-visualização do GitHub não esteja funcionando, utilize os links abaixo
-para ver os notebooks com o [nbviewer](https://nbviewer.jupyter.org/):
+Utilize os links abaixo para ver os Notebooks com o Google Colab:
 
-- [Notebook com teoria, exemplos e exercícios propostos](https://nbviewer.jupyter.org/github/chicolucio/exercicios-logica-ttg/blob/master/introducao_logica_com_ttg.ipynb)
-- [Notebook com o gabarito dos exercícios propostos](https://nbviewer.jupyter.org/github/chicolucio/exercicios-logica-ttg/blob/master/introducao_logica_com_ttg_gabarito.ipynb)
+- Notebook com teoria, exemplos e exercícios propostos:
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chicolucio/exercicios-logica-ttg/blob/master/introducao_logica_com_ttg_colab.ipynb)
+- Notebook com o gabarito dos exercícios propostos:
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chicolucio/exercicios-logica-ttg/blob/master/introducao_logica_com_ttg_gabarito_colab.ipynb)
 
 O objetivo é mostrar que professores podem ter uma ferramenta mais visual para
 apresentar o conteúdo e que alunos tenham acesso a uma ferramenta onde possam
